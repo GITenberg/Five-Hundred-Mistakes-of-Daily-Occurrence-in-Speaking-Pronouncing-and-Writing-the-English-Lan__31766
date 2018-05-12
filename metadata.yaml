@@ -9,6 +9,8 @@ creator:
     gutenberg_agent_id: '42105'
     url: http://www.gutenberg.org/2009/agents/42105
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/31766#Five-Hundred-Mistakes-of-Daily-Occurrence-in-Speaking-Pronouncing-and-Writing-the-English-Lan_
 gutenberg_issued: '2010-03-25'
 gutenberg_type: Text
 identifiers:
